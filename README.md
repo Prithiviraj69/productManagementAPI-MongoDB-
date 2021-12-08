@@ -63,5 +63,5 @@
 - [Click Here](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/tree/main/assignment5/Postman)
 
 #### ***SCREENSHOTS DEMO***
-![1.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/blob/main/assignment5/Postman/1.png)
-![2.png](https://github.com/mr-sudheeshkumar/Product-Management-APIs-MongoDB-/blob/main/assignment5/Postman/8.png)
+![1.png](https://github.com/Prithiviraj69/productManagementAPI-MongoDB-/blob/main/assignment5/Postman/1.png)
+![2.png](https://github.com/Prithiviraj69/productManagementAPI-MongoDB-/blob/main/assignment5/Postman/5.png)
